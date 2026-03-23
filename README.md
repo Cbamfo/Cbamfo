@@ -2,7 +2,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=GIS+Analysis;Remote+Sensing+%26+Environmental+Monitoring;Exploring+Python+for+Geospatial+applications;Building+maps+for+people+%26+places)](https://git.io/typing-svg)
 
 Spatial data professional applying GIS and remote sensing to planning,
-environmental monitoring solutions. Currently, transitioning into Python-powered geospatial web development.
+environmental monitoring. Currently transitioning into Python-powered geospatial web development.
 
 
 ---
